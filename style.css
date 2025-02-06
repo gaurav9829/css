@@ -1,0 +1,30 @@
+.main{
+	width: 1140px;
+	background-color: grey;
+}
+.one{
+	width: 350px;
+	margin-left: 15px;
+	margin-right: 15px;
+	margin-top: 30px;
+	background-color: white;
+	display: inline;
+	
+}
+.two{
+	width: 350px;
+	margin-left: 15px;
+	margin-right: 15px;
+	margin-top: 30px;
+	background-color: white;
+	display: inline;
+
+}
+.three{
+	width: 350px;
+	margin-left: 15px;
+	margin-right: 15px;
+	margin-top: 30px;
+	background-color: white;
+	display: inline;
+}
